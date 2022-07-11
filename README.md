@@ -2,7 +2,7 @@
 
 Introduction to Object Detection Tutorial using Transfer Learning for UNF Guest Lecture
 
-##Resources
+## Resources
 This resource was used to create the majority of the code in the Notebooks below. Highly Recommend Watching the Tensorflow Object Detection Walkthrough Video.
 https://github.com/nicknochnack/TFODCourse
 
