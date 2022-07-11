@@ -3,10 +3,9 @@
 Introduction to Object Detection Tutorial using Transfer Learning for UNF Guest Lecture
 
 ### Program Dependencies
-Microsoft C++ Build Tools - Install Link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-Git - Install Link: https://git-scm.com/downloads
-Anaconda - Install Link: https://www.anaconda.com/
-
+Microsoft C++ Build Tools - Install Link: https://visualstudio.microsoft.com/visual-cpp-build-tools/ <br>
+Git - Install Link: https://git-scm.com/downloads <br>
+Anaconda - Install Link: https://www.anaconda.com/ <br>
 **Restart OS after Installing Programs Above**
 
 ## 1-Object_Detection_Workspace_Setup
