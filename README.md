@@ -2,19 +2,24 @@
 
 Introduction to Object Detection Tutorial using Transfer Learning for UNF Guest Lecture
 
-### Program Dependencies
+## Program Dependencies
 Microsoft C++ Build Tools - Install Link: https://visualstudio.microsoft.com/visual-cpp-build-tools/ <br>
 Git - Install Link: https://git-scm.com/downloads <br>
 Anaconda - Install Link: https://www.anaconda.com/ <br>
 
 **Restart OS after Installing Programs Above**
 
+## Anaconda Setup
+
+
 ## 1-Object_Detection_Workspace_Setup
 This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models.
 
 ### Dependencies
+'''
 pip install --upgrade --user pip <br>
 pip install --user wget opencv-python pyyaml protobuf matplotlib
+'''
 
 ## 2-Label_Pictures
 This Notebook walks you through downloading a program call LableImg developed by tzutalin GitHub: https://github.com/tzutalin <br>
