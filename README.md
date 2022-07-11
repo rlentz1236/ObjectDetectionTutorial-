@@ -8,3 +8,16 @@ This Notebook will walk you through downloading the libraries needed to run pre-
 
 ## 2-Label_Pictures
 This Notebook walks you through downloading a program call LableImg developed by tzutalin GitHub: https://github.com/tzutalin
+
+LabelImg can be used to create the annotation xml files needed to create a custom image dataset for training and testing custom object detection models.
+
+## 3-Train_Custom_Object_Detection_Model
+This Notebook walks you through creating a custom object detection model based on a custom image dateset. 
+
+## 4-Detect_Objects_in_Images
+This Notebook gives sample code for using a pre-trained or custom model to automatically label objects for a given directory of images
+
+## 5-Video_to_Pictures
+This Notebook walks you through extracted pictures froma specified video
+
+The images from the video can be labeled using LabelImg to create a custom image dataset for training and testing
