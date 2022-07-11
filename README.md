@@ -2,13 +2,6 @@
 
 Introduction to Object Detection Tutorial using Transfer Learning for UNF Guest Lecture
 
-## Resources
-This resource was used to create the majority of the code in the Notebooks below. Highly Recommend Watching the Tensorflow Object Detection Walkthrough Video. <br>
-Link: https://github.com/nicknochnack/TFODCourse
-
-This resource was used to create the code in the Video_to_Pictures Notebook <br>
-Link: https://www.geeksforgeeks.org/extract-images-from-video-in-python/
-
 ## 1-Object_Detection_Workspace_Setup
 This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models.
 
@@ -27,3 +20,10 @@ This Notebook gives sample code for using a pre-trained or custom model to autom
 This Notebook walks you through extracted pictures froma specified video
 
 The images from the video can be labeled using LabelImg to create a custom image dataset for training and testing
+
+## Resources
+This resource was used to create the majority of the code in the Notebooks below. Highly Recommend Watching the Tensorflow Object Detection Walkthrough Video. <br>
+Link: https://github.com/nicknochnack/TFODCourse
+
+This resource was used to create the code in the Video_to_Pictures Notebook <br>
+Link: https://www.geeksforgeeks.org/extract-images-from-video-in-python/
