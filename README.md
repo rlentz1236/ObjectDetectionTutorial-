@@ -46,6 +46,14 @@ pip install --user wget opencv-python pyyaml protobuf matplotlib
 This Notebook walks you through downloading a program call LableImg developed by tzutalin GitHub: https://github.com/tzutalin <br>
 LabelImg can be used to create the annotation xml files needed to create a custom image dataset for training and testing custom object detection models.
 
+When labeling images make sure you set the label name as the name you want your model to label them as. The label names created at this step will be the labels used for any model trained on the datset.
+
+When drawing the annotation boxes keep them as tight as possible removing as much of the image that is not part of the object without removing any of the object
+
+The annotation xml files must match the name of the image they are created for otherwise an error will occur during training. 
+
+When creating a training dataset you want to have at least 20 different pictures of each object you are trying to detect.
+
 ### Dependencies
 ```
 pip install --upgrade pyqt5 lxml 
