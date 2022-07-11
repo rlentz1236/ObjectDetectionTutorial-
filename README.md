@@ -70,6 +70,16 @@ pip install typeguard pytz gin-config tensorflow-addons
 ## 4-Detect_Objects_in_Images
 This Notebook gives sample code for using a pre-trained or custom model to automatically label objects for a given directory of images
 
+To run this code you will need to create your own object detection image dataset. The dataset will need to be split into training and testing sets with the training set containing 80% of the image dataset and the testing set containing the other 20%. Having more training data is more important than the testing data. 
+
+### Pre-Trained Models
+The link below is to the Tensorflow 2 Detection Model Zoo. If you train your model and do not get the results you want then you can try a different pre-trained model  however, I would recommend looking at the training dataset to make sure you have enough samples for each object. Sometimes you may need more than 20 and the samples need to be diverse for the model to detect objects in new unknown images. 
+
+Link: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md 
+
+To copy a new model link go to the page above and right click any of the model names in the table, then select copy link address.
+
+
 ## 5-Video_to_Pictures
 This Notebook walks you through extracted pictures froma specified video
 
