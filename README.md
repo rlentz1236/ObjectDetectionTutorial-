@@ -80,7 +80,7 @@ To copy a new model link go to the page above and right click any of the model n
 This Notebook gives sample code for using a pre-trained or custom model to automatically label objects for a given directory of images
 
 ## 5-Video_to_Pictures
-This Notebook walks you through extracted pictures froma specified video
+This Notebook walks you through extracting pictures from a specified video file
 
 The images from the video can be labeled using LabelImg to create a custom image dataset for training and testing
 
