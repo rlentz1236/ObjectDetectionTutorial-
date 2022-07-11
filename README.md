@@ -17,6 +17,7 @@ Open Anaconda Navigator
   - Select Install on Jupyter Notebook
     - This will be used to run the Notebook files   
   - Select Install on CMD.exe Prompt or 
+    - This will be used to pip install libraries and run model training/evaluation
 
 ## 1-Object_Detection_Workspace_Setup
 This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models.
