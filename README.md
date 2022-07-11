@@ -20,7 +20,12 @@ Open Anaconda Navigator
     - This will be used to pip install libraries and run model training/evaluation
 
 ## 1-Object_Detection_Workspace_Setup
-This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models.
+This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models. <br>
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md <br>
+To copy a new model link go to the page above and right click any of the model names in the table, then select copy link address.
+
+### Pre-Trained Models
+The link below is to the Tensorflow 2 Detection Model Zoo. 
 
 ### Dependencies
 ```
@@ -38,7 +43,7 @@ pip install --upgrade pyqt5 lxml
 ```
 
 ## 3-Train_Custom_Object_Detection_Model
-This Notebook walks you through creating a custom object detection model based on a custom image dateset. 
+This Notebook walks you through creating a custom object detection model based on a custom image dateset using transfer learning. 
 
 ### Dependencies
 ```
