@@ -21,7 +21,8 @@ Open Anaconda Navigator
 
 ## 1-Object_Detection_Workspace_Setup
 This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models. <br>
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md <br>
+Link: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md 
+
 To copy a new model link go to the page above and right click any of the model names in the table, then select copy link address.
 
 ### Pre-Trained Models
