@@ -12,7 +12,7 @@ Anaconda - Install Link: https://www.anaconda.com/ <br>
 ## Anaconda Setup
 Open Anaconda Navigator
 - Go to Environments -> Create
-  - Given Virtual Environment a Name and select create
+  - Give Virtual Environment a Name and select create
 - Go to Home
   - Select Install on Jupyter Notebook
     - This will be used to run the Notebook files   
