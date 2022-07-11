@@ -22,7 +22,7 @@ This Notebook walks you through extracted pictures froma specified video
 The images from the video can be labeled using LabelImg to create a custom image dataset for training and testing
 
 ## Resources
-This resource was used to create the majority of the code in the Notebooks below. Highly Recommend Watching the Tensorflow Object Detection Walkthrough Video. <br>
+This resource was used to create the majority of the code in the Notebooks above. Highly Recommend Watching the Tensorflow Object Detection Walkthrough Video. <br>
 Link: https://github.com/nicknochnack/TFODCourse
 
 This resource was used to create the code in the Video_to_Pictures Notebook <br>
