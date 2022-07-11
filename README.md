@@ -20,13 +20,21 @@ Open Anaconda Navigator
     - This will be used to pip install libraries and run model training/evaluation
 
 ## 1-Object_Detection_Workspace_Setup
-This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models. <br>
+This Notebook will walk you through downloading the libraries needed to run pre-trained and custom object detection models. 
+
+### Pre-Trained Models
+The link below is to the Tensorflow 2 Detection Model Zoo. 
+
 Link: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md 
 
 To copy a new model link go to the page above and right click any of the model names in the table, then select copy link address.
 
-### Pre-Trained Models
-The link below is to the Tensorflow 2 Detection Model Zoo. 
+### Project Directory
+The variable PROJECT_NAME under section 2 sets the Project/Workspace path. Make sure to set it to the desired diretory before executing the code in the Notebook.
+
+### Install Errors
+- If given a Module not found error search python install Missing_Module_Name
+  - After finding the apporaite install name use pip to install the library into the virtual environment 
 
 ### Dependencies
 ```
